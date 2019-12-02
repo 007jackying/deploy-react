@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/deploy-react/static/css/main.874757c0.chunk.css",
-    "main.js": "/deploy-react/static/js/main.539883bf.chunk.js",
-    "main.js.map": "/deploy-react/static/js/main.539883bf.chunk.js.map",
+    "main.css": "/deploy-react/static/css/main.870eb314.chunk.css",
+    "main.js": "/deploy-react/static/js/main.a9345781.chunk.js",
+    "main.js.map": "/deploy-react/static/js/main.a9345781.chunk.js.map",
     "runtime-main.js": "/deploy-react/static/js/runtime-main.1d9b0c43.js",
     "runtime-main.js.map": "/deploy-react/static/js/runtime-main.1d9b0c43.js.map",
     "static/js/2.7faf60cb.chunk.js": "/deploy-react/static/js/2.7faf60cb.chunk.js",
     "static/js/2.7faf60cb.chunk.js.map": "/deploy-react/static/js/2.7faf60cb.chunk.js.map",
     "index.html": "/deploy-react/index.html",
-    "precache-manifest.6b8bf882c2c677415ead293164c11955.js": "/deploy-react/precache-manifest.6b8bf882c2c677415ead293164c11955.js",
+    "precache-manifest.1e536d381c71b5d6ff6ef7bf73e670e5.js": "/deploy-react/precache-manifest.1e536d381c71b5d6ff6ef7bf73e670e5.js",
     "service-worker.js": "/deploy-react/service-worker.js",
-    "static/css/main.874757c0.chunk.css.map": "/deploy-react/static/css/main.874757c0.chunk.css.map"
+    "static/css/main.870eb314.chunk.css.map": "/deploy-react/static/css/main.870eb314.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.1d9b0c43.js",
     "static/js/2.7faf60cb.chunk.js",
-    "static/css/main.874757c0.chunk.css",
-    "static/js/main.539883bf.chunk.js"
+    "static/css/main.870eb314.chunk.css",
+    "static/js/main.a9345781.chunk.js"
   ]
 }
